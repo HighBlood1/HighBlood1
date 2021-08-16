@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HighBlood1
 - 👀 I’m interested in learn 
-- 🌱 I’m currently learning java, java scrypt adn scc 
+- 🌱 I’m currently learning java, java scrypt and scc 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
